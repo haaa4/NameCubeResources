@@ -1,8 +1,8 @@
 {
   "PreReleaseVersionName": "V1.4-Beta-3(#p10#)",
   "PreReleaseVersionCode": 10,
-  "PreReleaseVersionReleaseFromGithubUrl": "1",
-  "PreReleaseVersionReleaseFromGiteeUrl": "1",
+  "PreReleaseVersionReleaseFromGithubUrl": "https://github.com/haaa4/NameCube/releases/download/V1.4-Beta-3(%23p10%23)/NameCubeSetupX64.exe",
+  "PreReleaseVersionReleaseFromGiteeUrl": "https://gitee.com/haaa4/NameCube/releases/download/V1.4-Beta-3(%23p10%23)/NameCubeSetupX64.exe",
   "LatestVersionName": "V1.3.1(#l7#)",
   "LatestVersionCode": 7,
   "LatestVersionReleaseFromGithubUrl": "https://github.com/haaa4/NameCube/releases/download/1.3.1(%23l7%23)/NameCubeSetupX64.exe",
